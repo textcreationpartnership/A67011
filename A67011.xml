@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A disswasive from worldly-mindedness, in order to the due exercise of Christian charity A sermon preached in the chappel of Popler, on the 8th of Sept. 1698. Before the trustees for the charity of Captain William Curtis, deceased. Who, in the year 1669, bequeathed a rent-charge of sixty pounds per annum, for the release of poor prisoners, the relief of aged people, a weekly distribution of bread, and the placing out of poor children to trades: for the benefit of the poor in the hamlets of Popler, Mile-end, Limus, and Ratcliff, for ever. Published at the request of the trustees. By Josiah Woodward, minister of Popler.</title>
+            <author>Woodward, Josiah, 1660-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67011</idno>
+            <idno type="STC">Wing W3515</idno>
+            <idno type="STC">ESTC R221225</idno>
+            <idno type="EEBO-CITATION">99832567</idno>
+            <idno type="PROQUEST">99832567</idno>
+            <idno type="VID">37041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37041)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A disswasive from worldly-mindedness, in order to the due exercise of Christian charity A sermon preached in the chappel of Popler, on the 8th of Sept. 1698. Before the trustees for the charity of Captain William Curtis, deceased. Who, in the year 1669, bequeathed a rent-charge of sixty pounds per annum, for the release of poor prisoners, the relief of aged people, a weekly distribution of bread, and the placing out of poor children to trades: for the benefit of the poor in the hamlets of Popler, Mile-end, Limus, and Ratcliff, for ever. Published at the request of the trustees. By Josiah Woodward, minister of Popler.</title>
+                  <author>Woodward, Josiah, 1660-1712.</author>
+               </titleStmt>
+               <extent>30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Brabazon Aylmer, at the Three Pigeons over against the Royal Exchange in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half-title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs, XXIII, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Charities --  England --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37041:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Diſſwaſive from Worldly-mindedneſs, in order to the due Exerciſe of Chriſtian Charity.</hi> A SERMON Preached in the Chappel of <hi>Popler,</hi> On the 8th of <hi>September</hi> 1698. Before the Truſtees for the Charity of Captain <hi>William Curtis,</hi> deceaſed.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:37041:2"/>
+            <pb facs="tcp:37041:2" rendition="simple:additions"/>
+            <p>
+               <hi>A Diſſwaſive from worldly-mindedneſs, in order to the due Exerciſe of Chriſtian Charity.</hi> A SERMON Preached in the Chappel of <hi>Popler,</hi> On the 8th of <hi>Sept.</hi> 1698. Before the Truſtees for the Charity of Captain <hi>William Curtis,</hi> deceaſed. WHO, In the Year 1669, bequeathed a Rent-charge of <hi>Sixty Pounds per Annum,</hi> for the Releaſe of Poor Priſoners, The Relief of Aged People, A Weekly Diſtribu<g ref="char:EOLhyphen"/>tion of Bread, and the Placing out of Poor Children to Trades: For the Benefit of the Poor in the Ham<g ref="char:EOLhyphen"/>lets of <hi>Popler, Mile-end, Limus,</hi> and <hi>Ratcliff,</hi> for ever. <hi>Publiſhed at the Requeſt of the Truſtees.</hi> By <hi>Joſiah Woodward,</hi> Miniſter of <hi>Popler.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Brabazon Aylmer,</hi> at the <hi>Three Pigeons</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37041:3"/>
+            <pb facs="tcp:37041:3"/>
+            <head>TO Sir <hi>Henry Johnſon,</hi> Kt. <hi>Hugh Squier,</hi> Eſq; Capt. <hi>Joſeph Stevens,</hi> Truſtees for the Charity of Captain <hi>William Curtis.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>AS it is generally agreed, that you have one of the moſt prudent and well-adviſed <hi>Charities</hi> under your hands, ſo it muſt be granted, that you have managed it with great Honour. For, as the <hi>Worthy Founder</hi> took all imaginable Care to have his Charity as laſting as the World it ſelf, ſo have you, for many Tears paſt, put your Accounts into ſuch an exact Method, as will not only juſtifie your own Faithfulneſs, but make it difficult for any that ſucceed you to be <g ref="char:V">Ʋ</g>nfaithful.</p>
+            <p>And perhaps it is in ſome Meaſure a Fruit of this <hi>Noble Charity,</hi> that a moſt Commodious <hi>School</hi> 
+               <note n="*" place="margin">At <hi>South-Mol<g ref="char:EOLhyphen"/>ton</hi> in <hi>Devon,</hi> for 30 poor Children, ere<g ref="char:EOLhyphen"/>cted at the Coſt of 700 <hi>l.</hi> and endowed with 50 <hi>l. per Ann.</hi> for ever, by Mr. <hi>H. S.</hi>
+               </note>, for the Education of Youth, has been Erected and Endowed by one of you, for the perpetual Benefit of
+<pb facs="tcp:37041:4"/> Poſterity: With many other very <note n="*" place="margin">To the value of above 3000 <hi>l</hi> the whole.</note> conſiderable Deeds of Charity.</p>
+            <p>Had <hi>Plato</hi> ſeen ſuch Pious Improvements of Wealth, he might have ſtruck out that uncharitable Reflection of his, <hi>That it is impoſſible for any one to be very Rich, and very Good.</hi> Nor would <hi>Celſus</hi> (had he well conſider'd it) have been ſo fond of that falſe Sentence of <hi>Plato</hi>'s, as to commend it even to Blaſphemy.</p>
+            <p>May it pleaſe God therefore to ſtop the Mouths of the Adverſaries of our Holy Religion, by the exemplary Lives of all its Votaries. May all Perſons who are eminently <hi>Great,</hi> be conſpicuouſly <hi>Good;</hi> and give ſuch Demonſtrations of the Miſtake of that <hi>Philoſopher,</hi> as <hi>Abraham, David,</hi> and many others have done, who though vaſtly Rich in <hi>Worldly Poſſeſſions,</hi> were yet more ſo in <hi>Good Works.</hi>
+            </p>
+            <p>And may it pleaſe Him, who ſometimes delighteth to <hi>chooſe Mean things, to confound things that are Mighty,</hi> to aſſiſt this <hi>Sermon</hi> with his Grace, that it may ſomewhat retrieve us from that <hi>Selfiſh narrowneſs</hi> of Spirit, which hath been our great Reproach, and al<g ref="char:EOLhyphen"/>moſt our utter Ruin: And may it excite a <hi>publick</hi> and <hi>generous,</hi> that is, a truly <hi>Chriſtian Spirit</hi> amongſt us, to the Glory of Almighty God, the juſt Honour of our Divine Religion, and to the Peace, Safety, and Re<g ref="char:EOLhyphen"/>nown of our Native Country: Which is the earneſt Deſire of,</p>
+            <closer>
+               <salute>Gentlemen,</salute>
+               <signed> Your very reſpectful Servant, Joſiah Woodward.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="7" facs="tcp:37041:4"/>
+            <epigraph>
+               <q>
+                  <bibl>Prov. 23. 5.</bibl> Wilt thou ſet thine Eyes upon that which is not? For, Riches certainly make themſelves Wings; they flee away as an Eagle towards Heaven.</q>
+            </epigraph>
+            <p>THE occaſion of my ſpeaking to you this day, is to recommend the noble Vertues of <hi>Charity and Alms-giving;</hi> of which the <hi>Founder</hi> of that great Charity which is yearly diſtributed in theſe <hi>Maritime Hamlets,</hi> is a noble Precedent. And therefore, ſince the inordi<g ref="char:EOLhyphen"/>nate Love of earthly things is the general Hin<g ref="char:EOLhyphen"/>derance of ſuch-like Pious Gifts, I have fixed my Thoughts (and now come to fix yours) on the words now read in your Ears, to remove that Ob<g ref="char:EOLhyphen"/>ſtacle out of the way. For, I cannot but promiſe my ſelf (by the Bleſſing of God) ſome degree of Succeſs in perſwading Men to Charitable Diſtribu<g ref="char:EOLhyphen"/>tions, when it ſhall be made appear unto them, That this is the moſt advantageous Uſe that can be made of earthly Goods: Much more, of thoſe Su<g ref="char:EOLhyphen"/>perfluities of them which are otherwiſe Uſeleſs, and many times Pernicious to the Owners.</p>
+            <p>My Text therefore comes to be your kind Mo<g ref="char:EOLhyphen"/>nitor this day: For, as ſure as the <hi>Oracles of God</hi>
+               <pb n="8" facs="tcp:37041:5"/> are true, your Riches will ſoon fall into the hands of other Maſters, either by their Departure or yours. And if your Faith does not aſſure you of this, the Examples of others may, and your own Experience ſoon will. And why then ſhould we not make a Vertue of Neceſſity? And commit our Goods to ſuch hands as will reſtore them with in<g ref="char:EOLhyphen"/>finite increaſe (in Value, though not in Kind) in that other World, upon which we ſhall ſo ſoon enter, and where we muſt for ever abide? This is to extract Pearls out of Bubbles; and to gain infinite Advantages from things which are juſt ſlipping out of our Hands. For, <hi>Riches certainly make themſelves Wings, and ſlee away.</hi>
+            </p>
+            <p>
+               <hi>Solomon,</hi> who made this Remark on the un<g ref="char:EOLhyphen"/>ſtable State of Humane things in the Text, was the greateſt and wiſeſt Prince of his Times; He enjoy'd all the Delights that his Heart could ſug<g ref="char:EOLhyphen"/>geſt, or the World ſupply him withall. And after he had long ſwam in the moſt deep and calm Current of Proſperity that can be imagined upon Earth, and had taſted Senſual Pleaſures rather like a <hi>Critick</hi> than an <hi>Epicure;</hi> (to ſee, as he tells us, <hi>what Good there was for Man under the Sun,</hi> Eccl. 2. 3.) and after that he had try'd them all by the Touchſtone of his inſpired Wiſdom; He comes at laſt to ſuch a Senſe of the Emptineſs of all Sublunary things, that, though a <hi>Prince,</hi> he becomes a <hi>Preacher,</hi> and gives the World a warm Sermon againſt Senſuality and Worldly-minded<g ref="char:EOLhyphen"/>neſs, as we read in his whole Book of <hi>Eccleſiaſtes.</hi> And the Theſis he choſe, and on which he largely
+<pb n="9" facs="tcp:37041:5"/> deſcants, was this grand Maxim, <hi>All is Vanity:</hi> Whereupon he proceeds to ſhew, that the whole Globe of earthly things, upon which Men dote ſo much, is but a glittering Bubble. It is <hi>Vanity it ſelf,</hi> ſays he; yea, the <hi>Vanity of Vanity,</hi> as if he<note place="margin">Eccl. 1. 2.</note> would term it, the Air of Froth, or the Shadow of a Vapour.</p>
+            <p>It is upon this Subject that this <hi>Royal Preacher</hi> expoſtulates with Worldly Minds in the Text. He found that a bare Admonition would not bring Men off from thoſe things to which their Hearts were glew'd. And therefore he proceeds to reaſon the Caſe with them in an elegant Expoſtulation in the Text.</p>
+            <q>
+               <hi>Wilt thou ſet thine Eyes upon that which is not?</hi> Is it becoming the Wiſdom of Man, to ſpend his Strength and Time in chaſing a Shadow? Or in endeavouring to catch the pleaſing Col<g ref="char:EOLhyphen"/>ours of the Rain-bow? Are not earthly Riches of an unſatisfactory Nature, and a very un<g ref="char:EOLhyphen"/>certain Tenure? Do they not often flee away (like the ſhy Bird) from thoſe who paſſio<g ref="char:EOLhyphen"/>nately purſue them? So that they get as far out of their reach, as the ſoaring <hi>Eagle</hi> who flyeth aloft, and <hi>deſpiſeth the Horſe and his Rider, (Job</hi> 39. 18.) mocking ſuch as are ſo vain as to purſue her.</q>
+            <p>Or if theſe worldly things ſeem to yield to the violent Courtſhip of ſome of their Admirers, and come in a Golden Shower into their Laps. Yet
+<pb n="10" facs="tcp:37041:6"/> then, alas! the Poſſeſſor does but graſp a handful of Air, or rather a little heap of ſlippery Sand, which the faſter you endeavour to hold it, the more ſpeedily it runs betwixt your Fingers. They are <hi>winged Creatures,</hi> ſays my Text, and often ſpring out of the hand of ſuch as thought they had taken faſt hold of them: For, <hi>Riches certainly make themſelves wings, they flee away,</hi> &amp;c.</p>
+            <p>So then the Force of this Argument in the Text, may be thus ſum'd up in a Practical <hi>Obſervation.</hi>
+            </p>
+            <p>That ſince Worldly Riches are ſo empty in their<note place="margin">Obſer.</note> Nature, and ſo ſhort and uncertain in their Du<g ref="char:EOLhyphen"/>ration; it is a great piece of Folly in Men to place their Affections upon them, or put their Truſt in them. <hi>Wilt thou ſet thine Eyes on that which is not?</hi> Wilt thou look with an admiring Eye on ſuch a Phantom? Or wilt thou look with a greedy and covetous Eye on ſuch a Fairy Trea<g ref="char:EOLhyphen"/>ſure? How can your Reaſon brook ſuch a piece of Deceit? Or your Self-love bear ſuch a Diſap<g ref="char:EOLhyphen"/>pointment? You will find this to end bitterly, for the purſuit of Vanity can have no other Iſſue but <hi>Vexation.</hi>
+            </p>
+            <p>So that our <hi>inſpired VViſe-man</hi> here is diſſwading Men from a piece of Vanity which is almoſt as natural to them as their Animal Life, viz. <hi>The in<g ref="char:EOLhyphen"/>ordinate ſeeking of temporary Things;</hi> and making little Conſcience by what means they compaſs them. As if <hi>Gain were Godlineſs</hi> (i. e. the <hi>VVhole of Man</hi>) and <hi>Mammon</hi> ſuch a God as could never
+<pb n="11" facs="tcp:37041:6"/> be loved and ſerved too much. And this the miſtaken World calls Wiſdom; which gave oc<g ref="char:EOLhyphen"/>caſion to that ſage Adviſe in the Verſe before the Text, <hi>Labour not to be rich, Ceaſe from thine own VViſdom,</hi> (ver. 4.) As if he had ſaid, Do not make Riches your chief Aim; neither be you over-greedy of them, as your carnal Mind will be apt to be, and think it ſelf mighty wiſe in ſo doing. <hi>But ſeek you the bleſſed Kingdom of God, and the beatifick Righteouſneſs thereof in the firſt place;</hi> and (uſing an honeſt Induſtry) leave it to God to give you that meaſure of earthly things which he ſees convenient for you. And thus your out<g ref="char:EOLhyphen"/>ward wants will be eaſier and better ſupplied, than by your own unhallowed Deſires, and independent Labours.</p>
+            <p>Wherefore ſee that you contemn that worldly Wiſdom which prompts Men to make their Neſt of ſuch things as they can ſcrape together upon Earth: And when they have raiſed it as high, and made it as warm as they can, fondly think that they have acquired the chief Happineſs of Man. <hi>But this their way is their Folly:</hi> For, they only lift up themſelves upon waxen Wings; and the higher they ſoar in this their carnal Preſump<g ref="char:EOLhyphen"/>tion, the more ſpeedy and the more diſmal will their Fall be. For, <hi>Riches certainly make them<g ref="char:EOLhyphen"/>ſelves wings and flee away as an Eagle towards Heaven, i. e.</hi> out of our reach.</p>
+            <pb n="12" facs="tcp:37041:7"/>
+            <p>Now, That we may take a full view of this <hi>Diſſwaſive</hi> from Wordly-mindedneſs, we muſt allow theſe few Particulars a due Conſideration.</p>
+            <p>We muſt conſider the Emptineſs of worldly<note place="margin" type="runSum">1.</note> things in their Nature, They are in the Text called <hi>Things which are not,</hi> i. e. which have not any real Happineſs in them for Man.</p>
+            <p>The uncertainty of them in their Poſſeſſion.<note place="margin" type="runSum">2.</note> 
+               <hi>They certainly make themſelves wings and flee away;</hi> even with an Eagle's flight; that is, ſwiftly and irreparably through the upper Air.</p>
+            <p>And from theſe two Premiſes this Concluſion na<g ref="char:EOLhyphen"/>turally follows, <hi>viz.</hi>
+            </p>
+            <p>That Men are very Indiſcreet in ſixing their<note place="margin" type="runSum">3.</note> 
+               <hi>admiring</hi> or <hi>coveting Eyes</hi> upon ſuch empty and uncertain things. It is a Folly for which they de<g ref="char:EOLhyphen"/>ſerve to be chidden, as in the Text, <hi>VVhy wilt thou ſet thine Eyes on that which is not?</hi> On a Phantaſtick thing which has only a fair Appea<g ref="char:EOLhyphen"/>rance to amuze your Fancy, but no ſubſtantial Goodneſs to ſatisfie your Deſires, or make you Happy.</p>
+            <p>And from all theſe Sober Conſiderations toge<g ref="char:EOLhyphen"/>ther, it muſt follow (according to the occaſion of our preſent meeting,)</p>
+            <p>That it is the moſt profitable and moſt noble<note place="margin" type="runSum">4.</note> uſe of Riches, to expend a ſuitable part of them
+<pb n="13" facs="tcp:37041:7"/> in the prudent and pious Diſtributions of Charity. For indeed this is ſo worthy, ſo honourable and divine a Thing, that a wiſe Perſon would chiefly wiſh to be rich for this very end, namely, <hi>to glo<g ref="char:EOLhyphen"/>rifie God with his Subſtance,</hi> by doing good to Men. Which, how far better it is in it ſelf, and how much more glorious in its end, than only to ſerve the baſe Luſts of a periſhing Body (which will quickly be devoured by Worms, and turned into Corruption) let every one that has the leaſt glympſe of Reaſon, or the leaſt grain of Faith, judge.</p>
+            <p>I begin with the Conſideration of the empty<note place="margin">I.</note> Nature of earthly Poſſeſſions. Poſſeſſions, did I ſay? that is too ſolid a name for theſe Shadows, to which the Wiſdom of God in the Text, will not allow a place amongſt the Rank of <hi>Beings.</hi> And how can we be ſaid to poſſeſs <hi>that which is not?</hi> Who ever got poſſeſſion of a Shadow? Or could ever ſet his Seal upon a Bubble? And in like manner, Who ever placed his Happineſs in worldly Riches, and did not find himſelf ſadly miſtaken in the end? Even as much as if he had endeavoured to ſupport himſelf with a Reed or a Ruſh.</p>
+            <p>Riches are indeed the Gift of God when ho<g ref="char:EOLhyphen"/>neſtly gotten: And ſo long as they are enjoyed with Thankfulneſs and Moderation, and employ'd according to the Rules of Piety and Charity, they are God's Bleſſing: As the wiſe Pen-man of my Text confeſſes in another place (<hi>Prov.</hi> 10. 22.)
+<pb n="14" facs="tcp:37041:8"/> 
+               <hi>The Bleſſing of the Lord maketh Rich, and he addeth no Sorrow with it,</hi> Such as are Rich, may with<g ref="char:EOLhyphen"/>out ſcruple enjoy a proportionable ſhare of God's allowance themſelves. And, being freed by a com<g ref="char:EOLhyphen"/>fortable Providence, from the Cares and Toiles of their poorer Brethren, they have better Leiſure than others, (and greater Engagements too) to <hi>ſerve God with gladneſs of Heart in the enjoyment</hi>
+               <note place="margin">Deut. 28. 47. Job 31. 24.</note> 
+               <hi>of all things.</hi> But, if once they make <hi>Gold their Hope,</hi> and <hi>truſt in uncertain Riches;</hi> or ſacrifice the Innocence and Peace of their Conſciences <hi>to the Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs:</hi> This is the Folly condemned in the Text. For, they that do thus, may be truly ſaid, in many Reſpects, <hi>to ſet their Hearts on that which is not;</hi> becauſe they ſeek that in Riches which they can never find in them. I ſhall only inſtance in three things which many think to enjoy in outward Wealth, whereas they are not to be found in it, and that is, The <hi>Ad<g ref="char:EOLhyphen"/>vancement,</hi> the <hi>Happineſs,</hi> and the <hi>Satisfaction</hi> of Man; which are rare Jewels, that are not to be found in this Soyle; and therefore to aim at theſe things in the Poſſeſſion of Riches, is to <hi>ſet their Hearts on that which is not;</hi> as will appear in a more particular Conſideration of theſe three things now mentioned.</p>
+            <p>The greateſt Accumulation of worldly Wealth<note place="margin" type="runSum">1.</note> is no real <hi>Advancement</hi> to the Man. It gives no degree of Wiſdom to his Mind, nor of Goodneſs to his Will; no Moderation to his Deſires, nor Regularity to his Paſſions. But rather, they are many times the unhappy occaſion of the contrary
+<pb n="15" facs="tcp:37041:8"/> to all theſe Advancements of <hi>Humane Nature.</hi> For, there are many worldly Minds who dote on <hi>deceitful Riches</hi> to that degree, as to think them an Univerſal Accompliſhment. And being thus vainly puff'd up, they deſpiſe Inſtruction, and are impatient of Reproof; and ſo they grow incorri<g ref="char:EOLhyphen"/>gible in all their Errors, and precipitate their eter<g ref="char:EOLhyphen"/>nal Ruin. For, their Carnal Hearts being bent towards Senſual Enjoyments, and their Wealth making it eaſie for them to provide Baits for their Luſts; and as eaſie to bear down all Oppoſition from Friends or Enemies, which would ſtop them in their Courſe. In this deplorable Caſe, their Wealth ſmooths their way to Deſtruction, and proves a Fatal Snare which is too ſeldom broken. Inſomuch that our Bleſſed Lord aſſures us, That <hi>it is as eaſie for a Camel</hi> (that great and gibboſe<note place="margin">Matt. 19. 24. Mark 10. 25. Luke 18. 25.</note> Creature) <hi>to go thorow the Eye of a Needle, as for ſuch as truſt in Riches to enter into the King<g ref="char:EOLhyphen"/>dom of Heaven.</hi>
+            </p>
+            <div type="part">
+               <head>Hence it alſo follows,</head>
+               <p>That the Riches of this World are not our <hi>Hap<g ref="char:EOLhyphen"/>pineſs;</hi>
+                  <note place="margin" type="runSum">2.</note> and that when Men look on them as feli<g ref="char:EOLhyphen"/>citating things, they <hi>ſet their Eyes on that which is not.</hi> They are not the Happineſs of our Bodies, much leſs of our Souls. If we were Maſters of both the <hi>Indies,</hi> we could not buy off one Stab of the Gout, or one twitch of the Collick, or the leaſt Pang of any acute Diſtemper. If an Eye be periſhed, or a Foot Gangren'd, the moſt maſſy Treaſure cannot reſtore the decay'd Part to Per<g ref="char:EOLhyphen"/>fection;
+<pb n="16" facs="tcp:37041:9"/> or purchaſe a healthy Conſtitution to a crazy and languiſhing Body.</p>
+               <p>Much leſs can we by Riches bribe Death, or purchaſe one Hours Reſpit from its Arreſt, when it has Commiſſion to break in upon us, and is ſhaking the very Foundations of our <hi>Earthly Ta<g ref="char:EOLhyphen"/>bernacle</hi> by its laſt Agonies.</p>
+               <p>And yet theſe are low and mean things, if compared with the great Eſſentials of our Happi<g ref="char:EOLhyphen"/>pineſs, <hi>viz. The Senſe of God's Favour, the Recti<g ref="char:EOLhyphen"/>tude of our Natures; a Serene State of Mind; the rational Quietude of Conſcience; and the comfortable Expectation of a bliſsful Eternity.</hi> And theſe are things which can no more be purchaſed by ſuch baſe and <hi>corruptible things as Silver and Gold,</hi> than the richeſt Diadem can be bought with a few Pibbles.</p>
+               <p>Thoſe who fancy that there is <hi>Satisfaction</hi> in<note place="margin" type="runSum">3.</note> earthly things, and deſire them for that end, do really <hi>ſet their Eyes on that which is not:</hi> They feed on Wind, which may create trouble to an empty Stomach, but cannot give it Content<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Have Men forgotten that this Earth lyes un<g ref="char:EOLhyphen"/>der the Curſe of God? (<hi>Gen. 3. 17.) Curſed is the Ground for thy ſake.</hi> And can we think our ſelves perfectly bleſſed in an Enjoyment which God has accurſed? No, no: You ſhall feel its <hi>Briars and Thorns</hi> in your Breaſt, if you give it place there;
+<pb n="17" facs="tcp:37041:9"/> even acute Cares and pungent Sorrows, by which (ſays the Apoſtle) <hi>many pierce themſelves thorow, (1 Tim.</hi> 6. 10.) Thorns are weak and feeble things; and they are barren too, and bear no Su<g ref="char:EOLhyphen"/>ſtenance: So that they can only ſcratch and tear us, but can never ſuſtain or nouriſh us. And thus, <hi>He that loveth Silver ſhall not be ſatisfied with Silver, nor he that loveth abundance with increaſe,</hi> (Eccl. 5. 10.) The Dropſie of Covetouſneſs in<g ref="char:EOLhyphen"/>creaſes by Indulgence. And indeed, the Heart of Man is too big to be filled with ſuch puny Treaſures. It was made for an <hi>Infinite God,</hi> and therefore no Meaſure of Finite Beings can give it Satisfaction.</p>
+               <p>That Wealthy Man (in the Parable of our Lord, <hi>Luke</hi> 12. 18.) who having his Barns and Cheſts full, began to lull his Soul to ſleep upon that Sup<g ref="char:EOLhyphen"/>poſition, ſaying, <hi>Soul take thine Eaſe, thou haſt Goods laid up for many Years.</hi> In this he ſpake very fooliſhly, for the Goods of the Soul cannot be laid up in <hi>Barns:</hi> And if they could, a Provi<g ref="char:EOLhyphen"/>ſion for <hi>many Years</hi> ſignifies very little to a Soul that muſt live for ever. So that the Bed was too ſhort for him to ſtretch himſelf upon; and there<g ref="char:EOLhyphen"/>fore it is no wonder that we find him taking ſuch a ſhort ſleep upon it; for at mid-night he is awa<g ref="char:EOLhyphen"/>ken'd by <hi>the Terrors of the Lord,</hi> and receives a Summons to appear before God, where he is ar<g ref="char:EOLhyphen"/>raigned by the Name of <hi>Fool,</hi> and is condemned as ſuch by God and his own Conſcience; for then he finds that his <hi>Idol of Gold</hi> is really <hi>nothing</hi> (as the Apoſtle ſays 1 <hi>Cor.</hi> 8. 4.) And that in ad<g ref="char:EOLhyphen"/>miring
+<pb n="18" facs="tcp:37041:10"/> his abundant Wealth, he had <hi>ſet his Eyes on that which is not, viz.</hi> upon that which can neither <hi>improve his Intellectuals,</hi> nor refine his Mo<g ref="char:EOLhyphen"/>rals; nor preſent him with any <hi>competent Happi<g ref="char:EOLhyphen"/>neſs,</hi> nor any <hi>tolerable Satisfaction,</hi> which were the three things to be ſpoken to, in which we ſee the Emptineſs of earthly things.</p>
+               <p>We proceed now in the next place, to conſider<note place="margin">II.</note> the Uncertainty of theſe Sublunary things, which the Text deſcribes in theſe words, <hi>For Riches cer<g ref="char:EOLhyphen"/>tainly make themſelves Wings and flee away as an Eagle towards Heaven.</hi> In which every word is emphatical.</p>
+               <p>
+                  <hi>Firſt, They have Eagles Wings, i. e.</hi> ſo ſtrong and lofty that we can never clip them. The Eagle's Flight is above our reach; they <hi>fly towards Hea<g ref="char:EOLhyphen"/>ven, i. e.</hi> with ſuch a towering loftineſs, that our Eye can ſcarce reach them, much leſs our Hand, Even ſo, nothing can enſure our earthly Poſſeſſi<g ref="char:EOLhyphen"/>ons; the moſt fertile Lands may, by the Judg<g ref="char:EOLhyphen"/>ment of God, be turn'd into Barrenneſs, as the Land of <hi>Paleſtine</hi> (once <hi>the Land flowing with Milk</hi>
+                  <note place="margin">Deut. 6. 3.</note> 
+                  <hi>and Honey</hi>) is ſaid to be at this day. The moſt pleaſant and deſirable Scituation, may be rendred uninhabitable and intolerable; as the Land about <hi>Sodom,</hi> which once for its beauty was compared<note place="margin">Gen. 13. 10.</note> to <hi>the Garden of the Lord,</hi> is now a ſulphurous and noiſom Lake. The moſt ſtately <hi>Pallace</hi> may by ſome ſudden <hi>Hurricane</hi> be laid flat in a moment, and buty its Inhabitants in the Rubbiſh of it; as in the Caſe of <hi>Job</hi>'s Children, who in the height<note place="margin">Job 1. 19.</note>
+                  <pb n="19" facs="tcp:37041:10"/> of their Feaſting and Merriment came to this de<g ref="char:EOLhyphen"/>plorable End. A Storm at Sea, or an Enemy there, may ſoon ſink the richeſt Cargo, and there<g ref="char:EOLhyphen"/>by turn many Wealthy Families into Melancholly Societies of diſtreſſed Widows and Orphans. <hi>En<g ref="char:EOLhyphen"/>gland</hi> is accounted a Wealthy Nation, but our Riches chiefly come to us by thoſe winged Carra<g ref="char:EOLhyphen"/>vans, our Ships, which I beſeech God to preſerve and proſper: For he has ſhewn us by many dreadful Storms within theſe ſeven Years, wherein ſome Hundreds of Ships and Thouſands of Men were loſt, how eaſily he can clip theſe Wings which bear up our Nation, and thereby ſink our Renown, and Wealth, and Safety in one common Grave. Or perhaps ſome lighter matter may de<g ref="char:EOLhyphen"/>prive a particular Perſon or Family of the Wealth of this World: It being a known Caſe, that a Gentleman loſt an Eſtate of many Thouſand Pounds a Year, for want of inſerting three words in a Deed of Settlement. Thus we ſee that the Foun<g ref="char:EOLhyphen"/>dation of Temporal things is Sandy, and the Te<g ref="char:EOLhyphen"/>nure uncertain; and let Men do what they can, they can never pinion the Wings of theſe fleet<g ref="char:EOLhyphen"/>ing Enjoyments, nor prevent their Flight from us.</p>
+               <p>
+                  <hi>Secondly,</hi> They make their Wings themſelves, <hi>Riches make themſelves Wings,</hi> i. e. It is their Nature to be on the Wing, and to flee away. They every day become more fledg'd than other, and are more likely to be gone from us. Like ſome ſorts of Ants, which at certain Periods of time have Wings naturally ſhooting forth; and
+<pb n="20" facs="tcp:37041:11"/> when theſe little Creatures, being fond of their Wings, mount upwards with them, they ſoon become a Prey to the Swallows and other Birds. A creeping lowlineſs of Life has more Safety (though leſs Splendor) than a towering Ambition. And we are told from the beſt of Authors, That <hi>they that will be rich, fall into Temptation and a Snare, and pierce themſelves thorow with many Sor<g ref="char:EOLhyphen"/>rows,</hi> 1 Tim. 6. 9, 10.</p>
+               <p>
+                  <hi>Thirdly,</hi> We muſt note the Aſſeveration of this, They <hi>Certainly</hi> make themſelves Wings. You will do well to expect it, for you are very like to find it ſo, either in part or in the whole. Nothing in earthly things is more affured than their Incon<g ref="char:EOLhyphen"/>ſtancy: And therefore they are uſually called <hi>Goods of Fortune:</hi> Not that they come or go by chance, but that they are ſubject to ſuch an Inſta<g ref="char:EOLhyphen"/>bility and Uncertainty, that their coming and going may, as to any fore-ſight of ours, be termed a ſort of Fortuity.</p>
+               <p>
+                  <hi>Fourthly,</hi> When Riches are gone, they are many times utterly irreparable, <hi>They fly away as an Eagle towards Heaven,</hi> i. e. above our reach, and beyond our recovery. By <hi>Heaven</hi> here, is not meant, The State of the <hi>Bleſſed;</hi> as if Riches went up thither. No, the very <hi>Heathen</hi> had other Notions of the Tendency of Wealth; who thought their <hi>Pluto</hi> to be both the God of <hi>Riches</hi> and of <hi>Hell.</hi> And it is no wonder, that the Devil perſwaded thoſe pro<g ref="char:EOLhyphen"/>ſeſs'd Votaries of his, that earthly Greatneſs was his Gift, ſince he attempted to perſwade <hi>Chriſt</hi>
+                  <pb n="21" facs="tcp:37041:11"/> himſelf to this, though abſolutely in vain, <hi>viz. That all the Power and Glory of earthly Kingdoms were at his diſpoſal,</hi> (Luke 4. 6.)</p>
+               <p>Thus have I (as briefly as I well could) conſi<g ref="char:EOLhyphen"/>dered the <hi>empty Nature</hi> and <hi>uncertain Tenure</hi> of earthly things: The other two Propoſitions which I propoſed to ſpeak to, are the Practical Conclu<g ref="char:EOLhyphen"/>ſions which we ought to make from the Premiſes, and therefore will be the proper <hi>Application</hi> of what has been ſaid. So then,</p>
+               <p>Since the Riches of this World are manifeſtly<note place="margin">III.</note> ſuch empty and uncertain things; it will be great Indiſcretion to ſet our Eyes upon them, <hi>i. e.</hi> either to <hi>admire</hi> them, <hi>covet</hi> them, or <hi>truſt</hi> in them. For all theſe are implied in this Expreſſion, of <hi>ſetting our Eyes on Riches.</hi> For,</p>
+               <p n="1">(1.) What we admire we gaze at, and fix our Eyes upon, and can ſcarcely take our Eyes off it, it being the <hi>Deſire of our Eyes.</hi> Thus does Gold dazle the Eyes of the Worldly-minded, and engroſs their Affections.</p>
+               <p n="2">(2.) What we greatly Covet, we look wiſh<g ref="char:EOLhyphen"/>fully and paſſionately upon. And therefore <hi>Ho<g ref="char:EOLhyphen"/>race</hi>
+                  <note place="margin">
+                     <hi>Qui oculo in torto Nummo rum proſpicit acervos.</hi> Hor</note> deſcribes a contented Man, as <hi>one that can paſs by great Treaſures, without looking back upon them.</hi>
+               </p>
+               <pb n="22" facs="tcp:37041:12"/>
+               <p n="3">(3.) What we put our Truſt in, we often caſt our Eyes upon. And this is the Reaſon, why a Good Man ſo often looks upward, and the Worldly Man downward: And this is the reaſon, why the Covetous Perſon is mark'd out in the Scripture as<note place="margin">Eph. 5. 5. Col. 3. 5.</note> an <hi>Idolater,</hi> viz. becauſe <hi>He makes Gold his Hope; and ſays to fine Gold, Thou art my Confidence,</hi> (Job 31. 24.)</p>
+               <p>But in all theſe three Caſts of the worldly Man's Eye, he does but miſ-guide and deceive himſelf: And how pertinently does the wiſe Man reprove him in the Text, <hi>Why wilt thou ſet thine Eyes on that which is not?</hi> Why will you admire, covet or confide in a Vapour or Shadow?</p>
+               <p>Let this quicken us to <hi>ſet our Affections on things above,</hi> where every thing is infinitely worthy and permanent; and not on theſe finite and fading things below. How can we be thought to believe the Promiſes of God, concerning the glorious State of bleſſed Souls in the eternal Kingdom above; if we ſet ſo light by it, as to think oftener, and deſire and purſue more the Dung-hill things of this Earth, than the Divine Bliſs of that Future State.</p>
+               <p>This Spiritual Elevation of Mind is ſo Eſſential to a Chriſtian Life, that we find two of the <hi>ancient</hi>
+                  <note place="margin">iſt. Mart. pol. 2. p. 8. lem. Alex. Tom. 6.</note> 
+                  <hi>Fathers</hi> numbering <hi>Socrates</hi> in the Rank of <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> before Chriſt, becauſe he dyed for aſſerting the only true God; and becauſe it was part of his Accuſation, <hi>That he was one, that did ſet himſelf to</hi>
+                  <note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Plut. pol. Socr. 31.</note> 
+                  <hi>ſeek better things than this Earth afforded, even things
+<pb n="23" facs="tcp:37041:12"/> in Heaven.</hi> Which made him take his laſt Fare<g ref="char:EOLhyphen"/>wel of his Adverſaries, and of this World, in theſe words: <q rend="inline">
+                     <hi>It is time for me to go and dye; and for you to learn to live; which is beſt, is known to God.</hi>
+                  </q> Alas! What a Shame will it be for Chri<g ref="char:EOLhyphen"/>ſtians that live in the State of the Goſpel, which for its Divine Glory is called the <hi>Kingdom of Hea<g ref="char:EOLhyphen"/>ven,</hi>
+                  <note place="margin">Mark 1. 15. Luke 17. 21.</note> to be out-done by <hi>Moral Heathens</hi> in Heavenly<g ref="char:EOLhyphen"/>mindedneſs. <hi>O Chriſtians!</hi> aſcend in your Affecti<g ref="char:EOLhyphen"/>ons to that State, to which Chriſt (the Deſire of your Souls) is aſcended. Let us prepoſſeſs that happy Place by our Heavenly Minds and Hearts, which we hope to poſſeſs e'er long in Soul and Body. May we all, with Divine <hi>Moſes,</hi> eſteem the <hi>reproached Religion and Grace of our Lord Jeſus Chriſt, greater Riches than all the tinſel Treaſures of this vain World.</hi> And ſince we ſay, we hope for Heaven, let us make due Returns of our Tem<g ref="char:EOLhyphen"/>poral things thither; which is certainly the beſt Improvement of earthly things that can be made. And this is the laſt thing I propoſed to ſpeak to, <hi>viz.</hi>
+               </p>
+               <p>That to beſtow a ſuitable part of our Wealth<note place="margin">IV.</note> in Pious and Charitable Diſtributions (as the Glory of God and the Neceſſities of our Bretheren give us Occaſion) will be the moſt Prudent and Profit<g ref="char:EOLhyphen"/>able Diſpoſal of theſe fleeting things. For, this is to make the laſt words of my Text true in a literal Senſe; namely, to make your <hi>Riohes fly to<g ref="char:EOLhyphen"/>wards Heaven indeed.</hi> And ſo you will ſend your Proviſions before you thither, and be Rich in both
+<pb n="24" facs="tcp:37041:13"/> Worlds, even <hi>rich towards God</hi> here, and <hi>rich in God</hi> for ever. Now, ſince <hi>Riches certainly have Wings,</hi> and will be gone: How much better is it to direct their Flight upwards, by <hi>Charity, Ho<g ref="char:EOLhyphen"/>ſpitality,</hi> and <hi>Piety,</hi> to our eternal Ornament and Entertainment; than to ſend them downwards by <hi>Luxury, Pride,</hi> or any <hi>Abuſe</hi> of them, there to <hi>eat our Fleſh like Fire,</hi> as St. <hi>James</hi> aſſures us they will, (<hi>James</hi> 5. 3.)<note place="margin">Rev. 14. 13.</note>
+               </p>
+               <p>The Good Works of Charitable People, follow them into the unſeen World, and attend them even before the Tribunal of God, like ſo many Car<g ref="char:EOLhyphen"/>riages of Furniture and Proviſions. And though they Merit nothing there at the Hand of God, (who gave us both the Alms we beſtow, and a Will to do it) yet they are ſuch a Fruit of our Faith, as God has promiſed to reward with in<g ref="char:EOLhyphen"/>finite Returns. Of this our Judge himſelf aſſures us <hi>Matt.</hi> 25, 34, &amp;c.) <hi>Come ye Bleſſed of my Father, inherit the Kingdom prepared for you from the beginning of the World: For I was an hun<g ref="char:EOLhyphen"/>gered, and ye gave me Meat: I was thirſty, and ye gave me Drink: I was a Stranger, and ye took me in: Naked, and ye cloathed me: Sick, and ye viſited me: I was in Priſon, and ye came unto me.</hi> This was not done indeed to the Perſon of Chriſt, but to <hi>Chriſtians,</hi> who when they are in<g ref="char:EOLhyphen"/>deed what their Name ſpeaks them to be, they are the Members of Chriſt's Myſtical Body: And whatever Kindneſs or Unkindneſs is done to them, is vertually done to Chriſt himſelf, and is ſo con<g ref="char:EOLhyphen"/>ſtrued
+<pb n="25" facs="tcp:37041:13"/> by him (Ver. 40.) <hi>In as much as ye have done it unto one of the leaſt of theſe my Brethren, ye have done it unto me.</hi> As if our Bleſſed Lord ſhould ſay at the laſt day, <hi>I know thy Works,</hi> O my Faithful Servant! I ſaw thee giving ſuch and ſuch an Alms in ſecret, which the World never knew. I beheld thee making thy Chari<g ref="char:EOLhyphen"/>table Doles to the Hungry, Thirſty, Naked, and Deſtitute. Mine Eye went with thee to ſuch and ſuch a Poor Family, to ſuch an Hoſpital, and ſuch a Priſon, whither thy Charity led thee, to conſider and relieve their Wants. Thou haſt done theſe things in ſecret, and I will reward thee openly: <hi>Enter thou into the Joy of thy</hi>
+                  <note place="margin">Matt. 25. 23.</note> 
+                  <hi>Lord. Thou Sowedſt plentifully, and ſhalt Reap</hi>
+                  <note place="margin">2 Cor. 9. 6.</note> 
+                  <hi>plentifully: Thy Prayers and thine Alms are come</hi>
+                  <note place="margin">Acts 10. 4.</note> 
+                  <hi>up before me, and as thou haſt Sowed to the Spirit,</hi> (imploying thy ſelf and Goods for Spiritual Ends) <hi>thou ſhalt of the Spirit reap eternal Life. I am</hi>
+                  <note place="margin">Gal. 6. 8. Heb. 2. 11.</note> 
+                  <hi>not aſhamed to call thee Brother,</hi> ſince thou par<g ref="char:EOLhyphen"/>takeſt of my Charitable and Divine Temper: Come <hi>my dear Brother, my welcome Co-heir</hi> of that<note place="margin">Rom. 8. 17.</note> Kingdom which is prepared for ſuch Faithful Stew<g ref="char:EOLhyphen"/>ards as thou haſt been.</p>
+               <p>O! Who would not make ſuch a Friend with the <hi>Mammon of <g ref="char:V">Ʋ</g>nrighteouſneſs!</hi> What a glori<g ref="char:EOLhyphen"/>ous End is here, of our Miniſtring to the Ser<g ref="char:EOLhyphen"/>vants of Chriſt upon Earth! O Sirs! We do not circumvent you, when we exhort you to Alms<g ref="char:EOLhyphen"/>deeds and Good Works. We do not come to rob you of your Treaſures, when we earneſtly
+<pb n="26" facs="tcp:37041:14"/> preſs your Charity: But we give you the Op<g ref="char:EOLhyphen"/>portunities of doing good to your ſelves, and to become <hi>Rich in Good Works;</hi> which is the<note place="margin">1 Tim. 6. 18.</note> nobleſt and moſt valuable Riches in the whole World.</p>
+               <p>Wherefore, <hi>with-hold not Good from ſuch to whom</hi> (by the Law of Charity) <hi>it is due, whilſt it is in the Power of thine Hand to do it,</hi> (Prov. 3. 27.) Deferr not all your Charity to your laſt Will and Teſtament: Your Wealth may ſlip out of your Hand before that hour; or how<g ref="char:EOLhyphen"/>ever, methinks it is not then ſo properly in your Poſſeſſion, when within a Minute or two it will be another's. But better late than never; though the ſooner we do it, the ſurer will the Diſtribu<g ref="char:EOLhyphen"/>tion be, the more Heroick the Vertue, the more Eminent our Faith, and the more Weighty our Reward.</p>
+               <p>Do we indeed believe, that an Omniſcient Righ<g ref="char:EOLhyphen"/>teous God governs the World? And do we own the Holy Scriptures as his Word? And doth God ſay, <hi>Bleſſed are the Merciful, for they ſhall obtain Mercy,</hi> (Matt. 5. 7.) If ſo, we cannot but be <hi>ready to diſtribute,</hi> and <hi>glad to communicate</hi> Glad<note place="margin">1. Tim. 6. 18.</note> of the happy Opportunity of exchanging Tem<g ref="char:EOLhyphen"/>porals for Eternals. We know who ſays, <hi>That he that giveth to the Poor, lendeth to the Lord; and what he giveth ſhall be repaid him again,</hi> (Prov. 19. 17.) And it will be repaid with ample yea infinite Increaſe. The Judge himſelf
+<pb n="27" facs="tcp:37041:14"/> tells you in what manner (<hi>Luke 6. 38.) Give and it ſhall be given unto you, good meaſure, preſſed down, and ſhaken together, and running over, into your Boſom.</hi>
+               </p>
+               <p>Let me then freely ſpeak to you whoſe Cup of Plenty overflows; who perhaps ſcarce know <hi>how to beſtow your Goods,</hi> the Hand of God having<note place="margin">Luke 12. 17.</note> been very liberal to you. Why? Here are ſafe Repoſitories for your Grain; the beſt Bags for your Money; <hi>Bags that wax not old:</hi> Here is a<note place="margin">Luke 12. 33.</note> Royal Bank which will never fail, (<hi>Luke</hi> 12. 33.)</p>
+               <p>Let your Faith then freely <hi>caſt your Bread upon</hi>
+                  <note place="margin">Eccl. 11. 1.</note> 
+                  <hi>the Waters,</hi> and it will be ſecurely tranſported to the other World, and will there be ſafely laid up for your Uſe; and if your Sins do not obſtruct it, you will reap the Comfort of it ten thouſand Years hence.</p>
+               <p>See then, here are Bills of Exchange ready: God hath ſubſcribed it with his own Hand, that he will repay in the other World, what you piouſly and charitably beſtow in this, if the reſt of our Life be agreeable herewith. Dare you Credit him upon whom the Bills are drawn? Yea, dare you ſcruple his Sufficiency or Integrity?</p>
+               <p>
+                  <hi>Leontius</hi> who lived at <hi>Cyrene,</hi> and was a moſt Faithful and Religious Perſon, hath Recorded it for a certain Truth <note n="*" place="margin">
+                     <hi>Dying and dead Mens Say ings.</hi> p. 118.</note> ſays an Author of our own, That <hi>Evagrius</hi> a Philoſopher turning Chri<g ref="char:EOLhyphen"/>ſtian,
+<pb n="28" facs="tcp:37041:15"/> and beſtowing 300 <hi>l.</hi> on the Poor, by the Perſwaſion of the Pious Biſhop <hi>Syneſius;</hi> for the Repayment of which by Chriſt, in the things of another World, the ſaid <hi>Biſhop</hi> had given him a Note under his Hand. 'Tis ſaid that the ſame <hi>Evagrius</hi> appeared to <hi>Syneſius</hi> a little after his Death, and bad him open his Coffin, and there he ſhould find a Receipt written by his own Hand, in token that he had received in the World above, the Rewards promiſed to Charity in this. And this Receipt (ſaith <hi>Leontius</hi>) was carefully kept in the Church at <hi>Cyrene</hi> in his time, and was ſhewn to any one that deſired it. This paſſage is quoted by many Divines as an authen<g ref="char:EOLhyphen"/>tick Relation; but if any think there may be Falſe<g ref="char:EOLhyphen"/>hood in it, I am ſure there is none in that ſure word of Propheſie (<hi>Mark 10. 21.) Give to the Poor, and thou ſhalt have Treaſure in Heaven.</hi> And though the <hi>Phariſees who were covetous de<g ref="char:EOLhyphen"/>rided</hi>
+                  <note place="margin">Luke 16. 14.</note> 
+                  <hi>theſe Doctrines</hi> of Chriſt; Far be it, Far be it from all that have the Honour to <hi>bear the Name of Chriſt,</hi> thus to contradict and Blaſpheme. For, <hi>true Religion and undefiled before God, is to viſit the Fatherleſs and the Widows in their Affliction, and to keep our ſelves unſpotted by the World,</hi> (James 1. 27.)</p>
+               <p>This, this is that which renders the Name of Captain <hi>William Curtis</hi> venerable to this day. He has left us ſuch an abiding Charity, as is not like to ſink or be diminiſhed to the end of the World. So that by the Hands of his deputed Truſtees,
+<pb n="29" facs="tcp:37041:15"/> the <hi>Priſon-doors</hi> are opened every other Year, and a little <hi>Jubilee</hi> celebrated. The hungry Bowels are refreſhed every Week; the mournful Widows Heart is made to ſing; and (what is no leſs a Charity) the youthful Hands are taught to work, and put in a way to be uſeful to their Country. And that his <hi>Truſtees</hi> might not be meer Conduit<g ref="char:EOLhyphen"/>pipes of his Bounty, to tranſmit all to others with<g ref="char:EOLhyphen"/>out taſting a Drop themſelves; there is a prudent Allotment of a ſuitable Portion for a Frugal Colla<g ref="char:EOLhyphen"/>tion at their Annual Meeting to make the appointed Diſtributions. Theſe were the Effects of a chari<g ref="char:EOLhyphen"/>table, bountiful, and friendly Soul: The Advan<g ref="char:EOLhyphen"/>tages of which to the truly charitable Donors, are as certain, and more great, than the Benefits done to thoſe who partake of ſuch Bounty here upon Earth.</p>
+               <p>Let us then, according to our Ability, follow ſo good a Precedent in a Point of ſuch unqueſtionable Advantage. A part of our Eſtate bleſs'd by God, is much better than the whole unbleſs'd by Him. And a Greek Poet wittily calls this, <hi>A way to make a Part greater than the Whole.</hi> 
+                  <note n="*" place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>Let us then offer up the Firſt-Fruits to God, that the whole Crop may be bleſs'd by him, and Sancti<g ref="char:EOLhyphen"/>fied to us. When <hi>Manna</hi> it ſelf was hoarded up, from a Principle of Covetouſneſs and Diſtruſt, it <hi>bred Worms</hi> and <hi>ſtank;</hi> but when the ſame was laid<note place="margin">Exod. 16. 20</note> up from a Principle of Piety, it was preſerved, to the Comfort of the Owners (<hi>Exod.</hi> 16. 24.)</p>
+               <pb n="30" facs="tcp:37041:16"/>
+               <p>To cloſe up all then: You ſee how greatly it concerns us, to fix our Minds on the permanent Subſtance of good things above, and not on the fading Shadows of them beneath. In order to which, let us beg of God, that he would vouchſafe to breathe a Spiritual Warmth towards Divine things in all our Breaſts by his Holy Spirit; that ſo when <hi>earthly Riches take their wing,</hi> our Comfort and Peace may not flee away with them. That we may not ſay with <hi>Micah, They have taken away my Gold and</hi>
+                  <note place="margin">Judges 18. 24.</note> 
+                  <hi>Silver, and what have I more?</hi> But with St. <hi>Paul, we know that we have in Heaven a far better and more</hi>
+                  <note place="margin">Heb. 10. 34.</note> 
+                  <hi>induring Subſtance.</hi> Which I pray God grant unto us all, through Jeſus Chriſt our Lord.</p>
+               <closer>Amen.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
